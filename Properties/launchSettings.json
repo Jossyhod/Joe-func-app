@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Joe_func_app": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7255",
+      "launchBrowser": false
+    }
+  }
+}
